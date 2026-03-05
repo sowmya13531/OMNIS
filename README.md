@@ -29,6 +29,25 @@ The goal of OMNIS is to:
 - Production-ready LLM integration
 - Streamlit-based deployment
 
+# Demo
+![App Demo](omnis_demo/Screenshot%20(212).png)
+![App Demo](omnis_demo/Screenshot%20(213).png)
+![App Demo](omnis_demo/Screenshot%20(214).png)
+![App Demo](omnis_demo/Screenshot%20(215).png)
+![App Demo](omnis_demo/Screenshot%20(216).png)
+![App Demo](omnis_demo/Screenshot%20(217).png)
+![App Demo](omnis_demo/Screenshot%20(218).png)
+![App Demo](omnis_demo/Screenshot%20(219).png)
+![App Demo](omnis_demo/Screenshot%20(220).png)
+![App Demo](omnis_demo/Screenshot%20(221).png)
+![App Demo](omnis_demo/Screenshot%20(222).png)
+![App Demo](omnis_demo/Screenshot%20(223).png)
+![App Demo](omnis_demo/Screenshot%20(224).png)
+![App Demo](omnis_demo/Screenshot%20(225).png)
+![App Demo](omnis_demo/Screenshot%20(226).png)
+![App Demo](omnis_demo/Screenshot%20(227).png)
+
+
 ## ⚙️ Technologies & Models Used
 
 - Programming & Frameworks
